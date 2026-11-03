@@ -41,7 +41,7 @@
 
 ## دریافت
 
-- [دریافت نسخه آزمایشی 0.20.7](https://github.com/pouriaquant91/gold-arbitrager-android/releases/tag/android-v0.20.7)؛ APK debug-signed همراه checksum. امضای CI ممکن است با نصب debug محلی متفاوت باشد؛ بدون تأیید امضا، حذف اپ قبلی توصیه نمی‌شود.
+- [دریافت نسخه آزمایشی 0.20.7](https://github.com/pouriajamali/gold-arbitrager-android/releases/tag/android-v0.20.7)؛ APK debug-signed همراه checksum. امضای CI ممکن است با نصب debug محلی متفاوت باشد؛ بدون تأیید امضا، حذف اپ قبلی توصیه نمی‌شود.
 
 ## نسخه PWA
 
