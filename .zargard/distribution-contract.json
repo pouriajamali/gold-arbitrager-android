@@ -89,9 +89,9 @@
   },
   "repositories": {
     "core": "https://github.com/daredevilbizdev/gold-arbitrager",
-    "android": "https://github.com/pouriaquant91/gold-arbitrager-android",
-    "pwa": "https://github.com/pouriaquant91/zargard-pwa",
-    "ios": "https://github.com/pouriaquant91/rasad-ios"
+    "android": "https://github.com/pouriajamali/gold-arbitrager-android",
+    "pwa": "https://github.com/pouriajamali/zargard-pwa",
+    "ios": "https://github.com/pouriajamali/rasad-ios"
   },
   "clientPreferences": {
     "fontFamilies": ["vazirmatn", "estedad", "sahel", "system"],
